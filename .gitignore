@@ -1,0 +1,17 @@
+# Local build outputs
+*.o
+*.out
+*.exe
+a.out
+
+# Example binaries produced by code/*/script.sh.
+/Билеты/**/code/**/*
+!/Билеты/**/code/**/
+!/Билеты/**/code/**/*.c
+!/Билеты/**/code/**/*.cpp
+!/Билеты/**/code/**/*.h
+!/Билеты/**/code/**/*.hpp
+!/Билеты/**/code/**/*.md
+!/Билеты/**/code/**/*.sh
+!/Билеты/**/code/**/*.txt
+!/Билеты/**/code/**/Makefile
